@@ -1,0 +1,8 @@
+[latest title="Latest updates"] // latest post query
+
+[single_cat category="popular" title="Most Popular"] // single category query
+
+[rectangles_addbar] $content [/rectangles_addbar] // 300x250 addbar query
+
+[leaderboard_addbar] $content [/leaderboard_addbar] // 728x90 addbar query
+
